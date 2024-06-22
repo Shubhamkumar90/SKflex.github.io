@@ -27,7 +27,8 @@ body{
 .navbar a:hover{
     background-color: #ddd;
     color: black;
-    padding: 20px 30px;
+    transform: scale(1.2);
+/*     padding: 20px 30px; */
     /* animation-name: anim1;
     animation-duration: 2s;
     animation-iteration-count: 1;
